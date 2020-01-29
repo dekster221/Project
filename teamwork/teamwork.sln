@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teamwork", "teamwork\teamwork.csproj", "{18BF57EC-A6A9-4861-B128-0F985BE00C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BF57EC-A6A9-4861-B128-0F985BE00C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BF57EC-A6A9-4861-B128-0F985BE00C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BF57EC-A6A9-4861-B128-0F985BE00C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BF57EC-A6A9-4861-B128-0F985BE00C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
